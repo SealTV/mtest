@@ -6,5 +6,5 @@ import (
 
 // Hi - return 'Hi' message
 func Hi(name string) string {
-	return fmt.Sprintf("He, %s", name)
+	return fmt.Sprintf("Hi, %s!", name)
 }
