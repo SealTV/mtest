@@ -1,1 +1,1 @@
-module github.com/SealTV/mtest
+module github.com/SealTV/mtest/v2
